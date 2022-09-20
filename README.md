@@ -15,9 +15,11 @@ It should not take more that 10-15 minutes.
 
 1- clone the project
 
-2- create a new file in root under `/solutions` with your name (example `/solutions/georges_jamous`)
+2- create a new file in root under `/solutions` with your name 
+(example `/solutions/georges_jamous`)
 
-3- duplicate the project under template `/template` inside the new folder under your name (example `/solutions/georges_jamous/FruitsApp`)
+3- duplicate the project under template `/template` inside the new folder under your name 
+(example `/solutions/georges_jamous/FruitsApp`)
 
 4- edit the code under the file `FruitsPickerView.swift` and commit/push to main
 
