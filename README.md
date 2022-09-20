@@ -23,7 +23,7 @@ It should not take more that 10-15 minutes.
 
 (example `/solutions/georges_jamous/FruitsApp`)
 
-4- edit the code under the file `FruitsPickerView.swift` and commit/push to main
+4- open your project (`/solutions/georges_jamous/FruitsApp`) and edit the code under the file `FruitsPickerView.swift` and commit/push to `main`.
 
 ---
 
