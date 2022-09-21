@@ -28,6 +28,6 @@ It should not take more that 10-15 minutes.
 ---
 
 ## what should the component do?
-We want to create a fruit picker view that will allow the user or developer to pick fruits (one or just many fruits).
+We want to create a fruit picker view that will allow the user to pick fruits (just one or many fruits).
 You have been given a list of fruits already.
 
