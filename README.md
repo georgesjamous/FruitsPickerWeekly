@@ -15,15 +15,19 @@ It should not take more that 10-15 minutes.
 
 1- clone the project
 
-2- create a new file in root under `/solutions` with your name 
+2- create a branch with your name `georges_jamous`
+
+3- create a new file in root under `/solutions` with your name 
 
 (example `/solutions/georges_jamous`)
 
-3- duplicate the project under template `/template` inside the new folder under your name 
+4- duplicate the project under template `/template` inside the new folder under your name 
 
 (example `/solutions/georges_jamous/FruitsApp`)
 
-4- open your project (`/solutions/georges_jamous/FruitsApp`) and edit the code under the file `FruitsPickerView.swift` and commit/push to `main`.
+5- open your project (`/solutions/georges_jamous/FruitsApp`) and edit the code under the file `FruitsPickerView.swift` 
+
+6- and commit/push to your private branch.
 
 ---
 
