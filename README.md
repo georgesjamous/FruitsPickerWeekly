@@ -29,6 +29,16 @@ It should not take more that 10-15 minutes.
 
 6- and commit/push to your private branch.
 
+## NOTE:
+
+if you have issues with pushing to this branch, then you need to:
+
+1- fork the project
+
+2- create a branch on your fork and work on it
+
+3- open a PR from your Fork to this repository
+
 ---
 
 ## what should the component do?
