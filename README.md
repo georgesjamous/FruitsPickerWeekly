@@ -1,4 +1,4 @@
-# FruitsPickerWeekly
+# 🍎🍌🍊🥝🥑🫐🥥 FruitsPicker Weekly 
 
 A weekly exercise for fruits-picker in SwiftUI
 
