@@ -88,3 +88,31 @@ struct DefaultFruitRow: View {
         !isSelected ? Color.gray.opacity(0.5) : Color.green
     }
 }
+
+struct FruitPickerView_Previews: PreviewProvider {
+    
+    struct PreviewContainer: View {
+        
+        @State var fruits: [String] = []
+        @State var fruit: String?
+
+        var body: some View {
+            VStack {
+                NavigationView {
+                    FruitPickerView(fruits: $fruits)
+                        .navigationTitle(fruits.joined(separator: "-"))
+                }
+                NavigationView {
+                    FruitPickerView(fruit: $fruit)
+                        .navigationTitle(fruit ?? "")
+                }
+            }
+        }
+
+    }
+    
+    static var previews: some View {
+        PreviewContainer()
+    }
+    
+}
